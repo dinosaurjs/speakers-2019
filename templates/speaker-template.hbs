@@ -1,0 +1,22 @@
+<mj-section full-width="full-width">
+  <mj-column width="30%">
+    <mj-image padding="0" border="1px solid #4a919e"
+      src="https://s3-us-west-2.amazonaws.com/dinosaurjs-assets/speakers/{{twitter}}.jpg"
+      href="https://twitter.com/{{twitter}}"
+      alt="{{name}}"
+    />
+  </mj-column>
+  <mj-column width="70%">
+    <mj-text align="left">
+      <h1 class="talk-title">
+        {{title}}
+      </h1>
+      <p class="speaker-name"> <a href="https://twitter.com/{{twitter}}">{{name}}</a></p>
+      <article class="speaker-abstract">
+        <p>
+          {{{__content}}}
+        </p>
+      </article>
+    </mj-text>
+  </mj-column>
+</mj-section>

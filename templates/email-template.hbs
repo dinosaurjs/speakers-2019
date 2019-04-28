@@ -1,0 +1,78 @@
+<mjml>
+  <mj-head>
+    <mj-title>{{title}}</mj-title>
+    <mj-preview>{{preheader}}</mj-preview>
+    <mj-attributes>
+      <mj-class name="slate" background-color="#AABCC5" />
+      <mj-class name="button" href="https://ti.to/dinosaurjs/2019" background-color="#4a919e" border="1px solid #adc2b2" color="white" font-size="18px" />
+    </mj-attributes>
+    <mj-style>
+      body,
+      p,
+      div {
+        font-size: 14px;
+      }
+
+      u+#body a {
+        color: #ce6a6b;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+
+      body {
+        color: #000000;
+      }
+
+      body a {
+        color: #ce6a6b;
+        text-decoration: none;
+      }
+
+      p {
+        line-height: 1.4em;
+        margin-bottom: 1em;
+      }
+
+      .speaker {
+        background-color: #cfe4d4;
+        border: 1px solid #4a919e;
+        padding: 0.5em;
+        margin: 0.5em 0;
+      }
+
+      .speaker-name,
+      u+#body .speaker-name {
+        margin-top: -1em;
+      }
+
+      .speaker-name:before,
+      u+#body .speaker-name:before {
+        content: '—';
+      }
+
+      .talk-title {
+        margin-top: 0
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body width="600px">
+    <mj-include path="./partials/navigation.mjml" />
+    <mj-section>
+      <mj-column>
+        <mj-text>
+          {{{__content}}}
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-include path="./partials/tickets.mjml" />
+    {{{speakers}}}
+    <mj-include path="./partials/tickets.mjml" />
+    <!-- SPONSOR -->
+    {{{sponsor}}}
+    <!-- SPONSOR -->
+    <mj-include path="./partials/unsubscribe.mjml" />
+  </mj-body>
+</mjml>

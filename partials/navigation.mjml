@@ -1,0 +1,9 @@
+<mj-section mj-class="slate">
+  <mj-column>
+    <mj-navbar hamburger="hamburger" ico-color="#ffffff">
+      <mj-navbar-link href="https://dinosaurjs.org" color="#ffffff">Website</mj-navbar-link>
+      <mj-navbar-link href="https://ti.to/dinosaurjs/2019" color="#ffffff">Tickets</mj-navbar-link>
+      <mj-navbar-link href="https://twitter.com/dinosaur_js" color="#ffffff">Twitter</mj-navbar-link>
+    </mj-navbar>
+  </mj-column>
+</mj-section>
