@@ -2,9 +2,9 @@
 title: Introducing Our Second Set of Speakers
 preheader: Some useful information about our second set of speakers!
 speakers:
-  - trott
-  - cassidoo
+  - hayleydenb
+  - tejaskumar_
 sponsor: twilio
 ---
 
-Some Other **content**
+Write some content here!
