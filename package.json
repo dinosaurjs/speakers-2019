@@ -1,10 +1,10 @@
 {
   "name": "dinosaurjs-2019-speakers",
   "version": "0.0.1",
-  "description": "Speaker information for 2019",
+  "description": "DinosaurJS speaker information for 2019",
   "main": "index.js",
   "scripts": {
-    "generate-json": "js-yaml speakers.yaml > speakers.json",
+    "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Steve Kinney <hello@stevekinney.net> (http://stevekinney.net)",
@@ -15,7 +15,6 @@
     "mjml": "^4.4.0-beta.1",
     "mkdirp": "^0.5.1",
     "rimraf": "^2.6.3",
-    "yaml-front-matter": "^4.0.0",
-    "yaml-to-json": "^0.3.0"
+    "yaml-front-matter": "^4.0.0"
   }
 }
