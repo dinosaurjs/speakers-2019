@@ -22,7 +22,7 @@ The moment you've all been waiting for, our long-thought-after schedule! You can
 **10:00 AM** Hayley Denbraver
 >A Postmortem on the Ingen Incident
 
-**10:30 AM** WorkDay announcement Will Klein
+**10:30 AM** Workday announcement Will Klein
 
 **10:35 AM** _Break_    
 
