@@ -16,42 +16,45 @@ The moment you've all been waiting for, our long-thought-after schedule! You can
 
 **9:15 AM** Opening Ceremonies Jasmine Greenaway
 
-**9:30 AM** Daria Caraway 
->How to have a amicable breakup with a Javascript library
+**9:30 AM** Cassidy Williams
+>Building a Babel 7 Processor
 
-**10:00 AM** Saimon Sharif 
->Codemods: Refactoring JavaScript using JavaScript
+**10:00 AM** Hayley Denbraver
+>A Postmortem on the Ingen Incident
 
 **10:30 AM** WorkDay announcement Will Klein
 
 **10:35 AM** _Break_    
 
-**11:10 AM** Lori Culberson  
->The Art of Teaching
+**11:10 AM** Daria Caraway 
+>How to have a amicable breakup with a Javascript library
 
-**11:40 AM** Sarah Drasner 
->The Future of Web Animation
+**11:40 AM** Saimon Sharif
+>Codemods: Refactoring JavaScript using JavaScript
 
 **12:10 PM** _Lunch_
 
-**1:40 PM** Cassidy Williams  
->Building a Babel 7 Processor
+**1:10 PM** Lori Culberson
+>The Art of Teaching
+
+**1:40 PM** Sarah Drasner
+>The Future of Web Animation
 
 **2:10 PM** _Workshop Announcement + Break_
 
-**2:50 PM** Fred K. Schott  
+**2:50 PM** Fred K. Schott
 >Pika: Reimagining the Registry
 
-**3:20 PM** Jana Beck 
+**3:20 PM** Jana Beck
 >Data science in the browser: DX & UX
 
 **3:50 PM** _Break (and a fun surprise!)_ 
 
-**4:35 PM** Tejas Kumar
->A tale of Two Architectures
+**4:35 PM** Rich Trott
+>A Partial Taxonomy of Test Unreliability
 
-*5:05 PM** Hayley Denbraver  
->A Postmortem on the Ingen Incident
+*5:05 PM** Tejas Kumar
+>A tale of Two Architectures
 
 **5:35 PM** _Closing Ceremonies_ 
 
