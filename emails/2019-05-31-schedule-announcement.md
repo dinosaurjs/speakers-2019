@@ -53,7 +53,7 @@ The moment you've all been waiting for, our long-thought-after schedule! You can
 **4:35 PM** Rich Trott
 >A Partial Taxonomy of Test Unreliability
 
-*5:05 PM** Tejas Kumar
+**5:05 PM** Tejas Kumar
 >A tale of Two Architectures
 
 **5:35 PM** _Closing Ceremonies_ 
