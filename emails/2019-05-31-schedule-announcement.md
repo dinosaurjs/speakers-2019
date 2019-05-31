@@ -1,6 +1,6 @@
 ---
 title: The Sc-Sc-Schedule is here 
-preheader: Schedule announcement, a suprise and more speakers!
+preheader: Schedule announcement, a surprise and more speakers!
 speakers:
   - cassidoo
   - tejaskumar_
