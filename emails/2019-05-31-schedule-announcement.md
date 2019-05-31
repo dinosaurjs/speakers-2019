@@ -55,7 +55,7 @@ The moment you've all been waiting for, our long-thought-after schedule! You can
 
 **5:35 PM** _Closing Ceremonies_ 
 
-**6:00 PM** After party (loaction TBA conference day) 🎉
+**6:00 PM** After party (location TBA conference day) 🎉
 
 ## Workshops
 We've been a little quiet about it this year, because we wanted to do something a bit different. BUT, we are so excited about our workshops this year and are finalizing the details -- we can't wait to share them with you! A quick hint, we will have content coming from Twilio, our very own Firebae and some sweet CSS in JS action. Registration for these will be in 2 weeks, thank you for your patience with us! 🙏
