@@ -9,8 +9,7 @@ speakers:
 sponsor: wework
 ---
 
-# Conference Day Schedule
-## June 20th
+# Conference Day Schedule (June 20th)
 The moment you've all been waiting for, our long-thought-after schedule! You can view everything on our [website](http://dinosaurjs.org/#schedule); but here is what day one looks like, kicking off at 8isham. 💃
 
 **8:15 AM** Breakfast 🍳
@@ -61,8 +60,7 @@ The moment you've all been waiting for, our long-thought-after schedule! You can
 
 **6:00 PM** After party (location TBA conference day) 🎉
 
-## Workshops
-### June 21st
+## Workshops (June 21st)
 We've been a little quiet about it this year, because we wanted to do something a bit different. BUT, we are so excited about our workshops this year and are finalizing the details -- we can't wait to share them with you! A quick hint, we will have content coming from Twilio, our very own Firebae and some sweet CSS in JS action. Registration for these will be in 2 weeks, thank you for your patience with us! 🙏
 
 ## Dino Hunt
