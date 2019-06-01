@@ -63,5 +63,5 @@ The moment you've all been waiting for, our long-thought-after schedule! You can
 ## Workshops (June 21st)
 We've been a little quiet about it this year, because we wanted to do something a bit different. BUT, we are so excited about our workshops this year and are finalizing the details -- we can't wait to share them with you! A quick hint, we will have content coming from Twilio, our very own Firebae and some sweet CSS in JS action. Registration for these will be in 2 weeks, thank you for your patience with us! 🙏
 
-## Dino Hunt
+## Dino Dig
 Grab a sturdy shovel and your finest archeology hat. It's time to harness your inner Mary Anning and Barnum Brown. DinosaurJS would like to donate, on your behalf, to a handful of awesome non-profits working to make the world a better place. [Let's find some dinosaurs!](https://dinosaurjs.org/#dig)
